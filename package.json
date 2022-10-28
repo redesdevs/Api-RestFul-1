@@ -1,0 +1,21 @@
+{
+  "name": "redesunicordoba",
+  "version": "1.0.0",
+  "description": "\"# Api-RestFul-1\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redesdevs/Api-RestFul-1.git"
+  },
+  "keywords": [],
+  "author": "J.E.A.S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redesdevs/Api-RestFul-1/issues"
+  },
+  "homepage": "https://github.com/redesdevs/Api-RestFul-1#readme"
+}
